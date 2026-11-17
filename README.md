@@ -21,7 +21,7 @@ Sitio web dinámico hecho en PHP que demuestra el uso de **variables, tipos de d
 
 ## Enlaces
 
-- **Sitio publicado:** _(agregar el enlace de InfinityFree)_
+- **Sitio publicado:** https://miniproyecto.free.je
 - **Repositorio:** https://github.com/RicardoPVX/miniproyecto-php-u4
 
 ## Descripción del proyecto
